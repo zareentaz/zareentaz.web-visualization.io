@@ -111,18 +111,18 @@ footer{
   }
 
   /* Images */
-img{
+/*img{
   width:75% ;
-  height:75% ;
+  height:75% ;*/
 }
 .active, .panel:hover{
   border-color:#0BADA6;
   border-style: solid; 
   
 }
-.vizualization{
+/*.vizualization{
   width:50% ;
-  height:50% ;
+  height:50% ;*/
 }
 .ml-3, .mx-3 {
   margin-left: 1rem !important;
